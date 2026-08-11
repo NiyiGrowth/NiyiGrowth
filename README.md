@@ -12,19 +12,19 @@
 ###
 
 <div align="left">
-  
-  <a href="https://github.com/yourusername/your-powerbi-dashboard" target="_blank">
-    <img src="https://img.icons8.com/?size=48&id=Ny0t2MYrJ70p&format=png" height="40" alt="PowerBi logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="[https://github.com/yourusername/your-excel-analysis](https://github.com/NiyiGrowth/Bank-Churn-Analysis)" target="_blank">
+    
+  <a href="https://github.com/NiyiGrowth/Bank-Churn-Analysis" target="_blank">
     <img src="https://img.icons8.com/?size=48&id=UECmBSgBOvPT&format=png" height="40" alt="Excel logo" />
   </a>
   <img width="12" />
   
-  <a href="https://github.com/yourusername/your-python-project" target="_blank">
+  <a href="https://github.com/NiyiGrowth/Bank-Churn-Analysis" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://github.com/yourusername/your-powerbi-dashboard" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=Ny0t2MYrJ70p&format=png" height="40" alt="PowerBi logo" />
   </a>
   <img width="12" />
   
@@ -41,12 +41,6 @@
 
 <div align="left">
 
-  <a href="https://github.com/yourusername/powerbi-projects" target="_blank">
-    <img src="https://img.icons8.com/?size=48&id=Ny0t2MYrJ70p&format=png" height="32" alt="Power BI logo" />
-    <span> Power BI Projects</span>
-  </a>
-  <br><br>
-
   <a href="https://github.com/yourusername/excel-projects" target="_blank">
     <img src="https://img.icons8.com/?size=48&id=UECmBSgBOvPT&format=png" height="32" alt="Excel logo" />
     <span> Excel Projects</span>
@@ -56,6 +50,12 @@
   <a href="https://github.com/yourusername/python-projects" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python logo" />
     <span> Python Projects</span>
+  </a>
+  <br><br>
+
+  <a href="https://github.com/yourusername/powerbi-projects" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=Ny0t2MYrJ70p&format=png" height="32" alt="Power BI logo" />
+    <span> Power BI Projects</span>
   </a>
   <br><br>
 
