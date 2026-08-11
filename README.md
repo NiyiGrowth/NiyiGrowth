@@ -18,7 +18,7 @@
   </a>
   <img width="12" />
   
-  <a href="https://github.com/yourusername/your-excel-analysis" target="_blank">
+  <a href="[https://github.com/yourusername/your-excel-analysis](https://github.com/NiyiGrowth/Bank-Churn-Analysis)" target="_blank">
     <img src="https://img.icons8.com/?size=48&id=UECmBSgBOvPT&format=png" height="40" alt="Excel logo" />
   </a>
   <img width="12" />
