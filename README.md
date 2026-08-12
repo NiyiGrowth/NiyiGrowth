@@ -41,13 +41,13 @@
 
 <div align="left">
 
-  <a href="https://github.com/yourusername/excel-projects" target="_blank">
+  <a href="https://github.com/NiyiGrowth/Bank-Churn-Analysis" target="_blank">
     <img src="https://img.icons8.com/?size=48&id=UECmBSgBOvPT&format=png" height="32" alt="Excel logo" />
     <span> Excel Projects</span>
   </a>
   <br><br>
 
-  <a href="https://github.com/yourusername/python-projects" target="_blank">
+  <a href="https://github.com/NiyiGrowth/Bank-Churn-Analysis" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python logo" />
     <span> Python Projects</span>
   </a>
